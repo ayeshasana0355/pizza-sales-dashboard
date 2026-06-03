@@ -77,12 +77,6 @@ An interactive, multi-page Power BI dashboard analyzing pizza sales performance 
 | Microsoft Excel | Raw data source |
 
 ---
-pizza-sales-dashboard/
-│
-├── pizza_sales_dashboard.pbix     # Main Power BI report file
-├── home.png                       # Screenshot — Home page
-├── BESTWORST SALLERS.png          # Screenshot — Best/Worst Sellers page
-└── README.md
 ---
 
 ## 🚀 Getting Started
