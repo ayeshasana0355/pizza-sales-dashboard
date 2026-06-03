@@ -93,7 +93,14 @@ An interactive, multi-page Power BI dashboard analyzing pizza sales performance 
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](www.linkedin.com/in/ayesha-sana-3908a130b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayeshasana0355)
 
 ## 📁 Project Structure# pizza-sales-dashboard
+pizza-sales-dashboard/
+│
+├── pizza_sales_dashboard.pbix     # Main Power BI report file
+├── home.png                       # Screenshot — Home page
+├── BESTWORST SALLERS.png          # Screenshot — Best/Worst Sellers page
+└── README.md
+---
