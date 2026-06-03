@@ -93,6 +93,5 @@ An interactive, multi-page Power BI dashboard analyzing pizza sales performance 
 
 ## 📬 Connect
 
-[![LinkedIn](https://www.linkedin.com/in/ayesha-sana-3908a130b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-sana-3908a130b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayeshasana0355)
-
